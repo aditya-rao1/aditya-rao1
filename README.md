@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya-rao1
 - 👀 I’m interested in machine learning and app development.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning more about making apps..
 - 💞️ I’m looking to collaborate on machine learning related.
 - 📫 How to reach me: raoaditya427@gmail.com
 
